@@ -17,7 +17,6 @@
   display: flex;
   flex-direction: column;
   width: 258px;
-  height: 350px;
   border: 1px solid rgb(219, 250, 254);
 }
 .hover_card:hover {
